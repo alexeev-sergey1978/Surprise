@@ -1,0 +1,24 @@
+h1{
+    font-size: 40px;
+    color: brown;
+}
+p{
+    font-size: 30px;
+    margin-left: 20;
+    color: rgb(106, 42, 202);
+}
+a{
+    color: rgb(71, 89, 208);
+    font-size: 30px;
+}
+button{
+    font-size: 40px;
+    color: rgb(198, 228, 26);
+}
+div{
+    color: rgb(233, 8, 8);
+    font-size: 90px;
+    margin-top: 100px;
+    margin-left: 40px;
+    
+}
