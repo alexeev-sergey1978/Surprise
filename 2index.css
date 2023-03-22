@@ -1,24 +1,97 @@
+body{
+    background-image: radial-gradient(#094e67,#b016a5);
+    background-position: cover;
+}
+
 h1{
-    font-size: 40px;
-    color: brown;
-}
-p{
     font-size: 30px;
-    margin-left: 20px;
-    color: rgb(106, 42, 202);
+    color: rgb(204, 237, 14);
+    padding: 20px 30px;
 }
-a{
-    color: rgb(71, 89, 208);
+h2{
+    margin-left: 45px;
+    color: #c7dd05;
     font-size: 30px;
 }
+    
+
 button{
     font-size: 40px;
-    color: rgb(198, 228, 26);
+    color: rgb(35, 40, 4);
+    border: 2px #020202;
+    background-color: aquamarine;
+    border-radius: 15px;
+    height: 60px;
+    margin-left: 30px;
+    margin-top: 150px;
+
+
 }
-div{
+
+ 
+.img{
     color: rgb(233, 8, 8);
     font-size: 90px;
-    margin-top: 100px;
+    margin-top: 0px;
     margin-left: 40px;
+    width: 280px;
+    height: 194px;box-shadow: 10px 10px 25px #e0f805;
     
+    
+}
+.text{
+    width: 300px;
+    height: 90px;
+    margin-top: 70px;
+    margin-left: 42px;
+    color: aliceblue;
+    font-size: 30px;
+    font-style: italic;
+    text-shadow: 10px 10px 25px #c7dd05;
+    
+}
+.surprise{
+    width: 340px;
+    height: 20px;
+    margin-left: 10px;
+    margin-top: 40px;
+    position: relative;
+    text-align: center;
+    font-weight: 100px;
+    line-height: 80px;
+    
+    
+    
+}
+a{
+    color: rgb(41, 205, 4);
+    font-size: 30px;
+}
+.song{
+    height: 20px;
+    width: 80px;
+    margin-left: 50px;
+}
+.text2{
+    text-align: center;
+    line-height: 100px;
+    height: 140px;
+    font-weight: 900;
+}
+p{
+    color: bisque;
+    font-size: 20px;
+}
+.output{
+    color: #e0f805;
+    text-align: center;
+    margin-top: 40px;
+    font-size: 27px;
+}
+.voyce{
+    margin-top: 80px;
+    margin-left: 100px;
+    height: 60px;
+    width: 320px;
+    position: relative;
 }
